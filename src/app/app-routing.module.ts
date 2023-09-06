@@ -4,8 +4,8 @@ import { AboutMeComponent } from './views/about-me/about-me.component';
 import { ExpirenceComponent } from './views/expirence/expirence.component';
 
 const routes: Routes = [
-  {path: '', component: AboutMeComponent},
-  {path: 'expirence', component: ExpirenceComponent}
+  // {path: '', component: AboutMeComponent},
+  // {path: 'expirence', component: ExpirenceComponent}
 ];
 
 @NgModule({
